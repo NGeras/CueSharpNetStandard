@@ -1,1 +1,1 @@
-# CueSharp
+# CueSharpCueSharp is an open source cue sheet parser library written in C#. Original version came from [wyday.com/cuesharp](http://wyday.com/cuesharp/).
