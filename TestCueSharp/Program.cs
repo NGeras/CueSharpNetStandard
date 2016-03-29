@@ -83,7 +83,7 @@ namespace ConsoleApplication1
             //Console.Read();
 
             //open a cuesheet from file with the default encoding.
-            CueSheet cue = new CueSheet("CDImage.cue");
+            CueSheet cue = new CueSheet(@"..\..\CDImage.cue");
 
             //print out the title from the global section of the cue file
             Console.WriteLine(cue.Title);
